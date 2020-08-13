@@ -1,4 +1,4 @@
-# Configure or specify the providers
+# Configure or specify the providers here
 
 provider "aws" {
     region = "us-east-1"
