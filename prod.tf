@@ -6,7 +6,7 @@ provider "aws" {
 }
 
 provider "github" {
-  token        = "91a81602a6dcaf6e6d43352b455c9301376d24c3"
+  token        = "use-token-here"
   organization = "ClayDesk"
 }
 
